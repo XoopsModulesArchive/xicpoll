@@ -1,0 +1,23 @@
+###:===========================================================
+###:==| Credits Translations : Team http://br.impresscms.org.
+###:===========================================================
+###:==| Version.........: 1.30
+###:==| Charset.........: UTF-8
+###:==| Data Release....: 
+###:==| Module..........: XicPoll - Project impresscms.org
+###:==| Status..........: 
+###:==| Translations....: GibaPhp - gibaphp@impresscms.org
+###:==|                 :
+###:==| Revision........: 
+###:===========================================================
+
+for xoops.org
+###:===========================================================
+###:==| Version.........: 1.31
+###:==| Revision........: artsgeral 19/10/08
+###:==|
+###:==|Revisado a tradução para o Xoops usado com a codificação
+###:==|ISO-8859-1, usado no portugues Brasil
+###:==|E umas pequenas atualizações na tradução
+###:==| 
+###:===========================================================
